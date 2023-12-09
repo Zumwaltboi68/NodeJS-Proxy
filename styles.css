@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+input {
+  padding: 8px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-top: 8px;
+}
+
+#resultContainer {
+  margin-top: 20px;
+}
